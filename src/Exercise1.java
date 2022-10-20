@@ -5,7 +5,7 @@ public class Exercise1 {
         Scanner scanner = new Scanner(System.in);
         float pi = 3.14f;
         float perimeter;
-        float diameter=scanner.nextFloat();
+        float diameter = scanner.nextFloat();
         System.out.println(diameter * 3.14);
 
     }
